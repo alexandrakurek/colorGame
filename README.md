@@ -1,4 +1,4 @@
-<h1>ColorGame - simple game, let's try! </h1>
+<p style='color:blue'><h1>ColorGame - simple game, let's try! </h1></p>
 
 ## Table of contens
 * [General info](#general-info)
