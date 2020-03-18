@@ -1,8 +1,8 @@
 <h1>ColorGame - simple game, let's try! </h1>
 
 ## Table of contens
-* [General info] (#general-info)
-* [How to play] (#how-to-play)
+* [General info](#general-info)
+* [How to play](#how-to-play)
 * [Technologies](#technologies)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
