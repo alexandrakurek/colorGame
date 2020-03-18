@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    /*wszystkie divy dzięki flex będą się umieszczać w 'kontenerze */
+    display: flex;
+    flex-wrap: wrap; /*elementy będą się zawijać */
+}
+div {
+    /* 6 elementów w przestrzeni i żadnej wolnej przestrzeni*/
+  flex-basis: 15% ;
+  flex-grow: 1; 
+  height: 33.33vh;
+  border: 4px solid white; /*ramki*/
+}
+@media (orientation: portrait){
+    div {
+        flex-basis: 30%;
+        height: 16.66vh;
+    }
+}
+.red {
+    background-color: #DC143C;
+}
+.lightpink {
+    background-color: #FFC0CB;
+}
+.hotpink {
+    background-color: #FF69B4;
+}
+.orange {
+    background-color:#FF6347;
+}
+.yellow {
+    background-color: #EEE8AA;
+}
+.purple {
+    background-color: #800080;
+}
+.green {
+    background-color:#98FB98;
+}
+.aqua {
+    background-color: #00FFFF;
+}
+.blue {
+    background-color: #1E90FF;
+}
+/*elementy ukryte, te które odkryjemy*/
+.hidden {
+    background-color: black;
+}
+/*zaznaczone te odkryte, nieaktywne*/
+.off {
+    background-color: #EEE;
+}
