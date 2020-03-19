@@ -11,7 +11,7 @@
 First, remember the colors of the cards. After 2 seconds they'll disappear. Your task is to find the pairs of colors. Game is finished when you will find them all.
 
 ## How to play?
-When you click on the black square its shows 1 color. Click on the next. If they are the same, points for you. If not? Try the next one. 
+When you click on the black square its shows 1 color. Click on the next. If they are the same, points for you. If not? Try the next one. [Try it!](https://alexandrakurek.github.io/colorgame/)
 
 ## Technologies
 Project is created with:
